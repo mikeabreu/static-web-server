@@ -1,0 +1,22 @@
+{
+  "name": "static-web-server",
+  "description": "Project Structured to generate HTML, CSS and JavaScript using Gulp/NPM/Bower workflow",
+  "main": "index.html",
+  "authors": [
+    "Mike Abreu <dev.mikeabreu@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mikeabreu/static-web-server",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "moment": "~2.10.6"
+  }
+}
